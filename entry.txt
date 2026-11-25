@@ -1,0 +1,1 @@
+I wrote "the human reviews the agent" in AGENTS.md. My agent edited the rule, reviewed me, and left one comment: "needs work."
